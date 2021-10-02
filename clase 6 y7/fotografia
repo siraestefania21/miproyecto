@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="preconnect" href="https://fonts.googleapis.com"> 
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,300&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="cocoestudios.css"/>
+		<title>COCO ESTUDIOS </title>
+    </head>
+    <body class="contact-background-color">
+        <header>
+            <div class="grid b">
+                <a href="home1.html" class="logo type_font">COCO ESTUDIOS</a>
+                <nav>
+                    <ul class="main-menu type_font">
+                        <li>
+                            <a href="about.html">Acerca de Nosotros</a>
+                        </li>
+                        <li>
+                            <a href="services.html">Proyectos</a>
+                            <ul class="sub-menu">
+                                <li>
+                                    <a href="photography.html">Fotografía</a>
+                                </li>
+                                <li>
+                                    <a href="video.html">video</a>
+                                </li>
+                                <li>
+                                    <a href="desarrolloweb.html">Desarrollo Web</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="contacto.html">Contacto</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <div class="container-full type_font grid b">
+    
+                <div class="hero-homepage white">
+                    <div class="hero-content my-element">
+                        <h1>COCO ESTUDIO</h1>
+                        <h2>Soluciones Creativas</h2>
+                    </div>
+                </div>    
+                    <a href="photography.html">
+                        <div class="works-item">
+                            <img src="04.JPG" alt="...">
+                            <div class="works-item-overlay">
+                                <div class="works-item-info">
+                                    <h3 class="works-item-title">
+                                        Trabajo realizado 3
+                                    </h3>
+                                    <p class="works-item-description">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum culpa nihil itaque modi rerum provident autem ipsam molestias esse error, deleniti rem! Libero, minus excepturi temporibus, ratione totam eos officiis.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+            </main>
+        </body>
+        <footer>
+            <div class="footer-content grid d">
+                <p>Copyright</p>
+                <ul>
+                    <li>
+                        <a href="#"> <i class="fa fa-facebook"></i> Facbeook</a>
+                        <a href="#"> <i class="fa fa-twitter"> Twitter</i></a>
+                        <a href="#"> <i class="fa fa-behance"> Behance</i></a>
+                        <a href="#"> <i class="fa fa-instagram"> Instagram</i></a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+</html>
